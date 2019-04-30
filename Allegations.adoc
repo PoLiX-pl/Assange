@@ -1,6 +1,6 @@
 = Allegations of sexual misconduct
 
-Julian Assange faced allegations of sexual misconduct by two Swedish women. The case was closed during his stay in Sweden, then re-opened while he was in the U.K. (TODO Give sources). Going back to Sweden to explain his case was associated with the following risks.
+Julian Assange faced allegations of sexual misconduct by two Swedish women (https://www.theguardian.com/media/2010/dec/17/julian-assange-sweden[Guardian]). The case was closed during his stay in Sweden, then re-opened while he was in the U.K. Going back to Sweden to explain his case was associated with the following risks.
 
 	. There was a credible threat that the US wanted Julian Assange to be extradited
 	. There was a credible threat that Sweden would extradite Julian Assange to the US * TODO back-up this claim*
@@ -10,6 +10,7 @@ However,
 
 [start=4]
 	. Julian Assange repeatedly offered Sweden alternative methods of questioning him, which “Sweden refused, unreasonably and disproportionately”, according to the United Nations Working Group on Arbitrary Detention.
+	. Numerous signs suggest that the chief prosecutor in Sweden did not consider the accusation of rape credible.
 
 See below for details and sources.
 
@@ -34,4 +35,15 @@ TODO “If Mr. Assange is convicted on the conspiracy to hack offense alone, he 
 “Sweden closed the preliminary investigation against Julian Assange in May 2017.
 The Swedish prosecutor had been compelled to travel to London to take Mr. Assange’s testimony six months prior.” -- Source: https://justice4assange.com/Assange-Testimony.html, contient les sources et le témoignage de JA par la Suède. TODO ¿huh
 
+== 5
+On the 20 Aug. 2010, “The Swedish Prosecutor's Office issues an arrest warrant for Mr Assange based on allegations of rape and molestation.” -- BBC https://www.bbc.com/news/world-europe-11949341timeline].
+
+But one day later, “Swedish authorities have withdrawn an arrest warrant for Wikileaks founder Julian Assange, stating that the accusation of rape against him was unfounded. (…) "I don't think there is reason to suspect that he has committed rape," the chief prosecutor, Eva Finne, said. She made no comment on the status of the molestation case, a less serious charge that would not lead to an arrest warrant.” -- https://www.theguardian.com/media/2010/aug/21/julian-assange-wikileaks-arrest-warrant-sweden[The Guardian], 21 Aug 2010
+
+Then on 1 Sep. 2010, “Swedish Director of Prosecution Marianne Ny says she is reopening the rape investigation against Mr Assange. "Considering information available at present, my judgement is that the classification of the crime is rape."” -- BBC Timeline. “She also said that an accusation of molestation - which is not a sex offence under Swedish law - against Mr Assange should be reclassified and investigated as a case of sexual coercion and sexual molestation.” -- https://www.bbc.com/news/world-europe-11151277[BBC]
+
+“[Ms Ny] said: "If he were to return to Sweden before the statute of limitation on this case expires in August 2020, the preliminary investigation could be resumed."” -- https://www.bbc.com/news/world-europe-39973864[BBC]
+
+She said it was "regrettable we have not been able to carry out the investigation", and added: "We are not making any pronouncement about guilt."
+“The newly-released emails show that the Swedish authorities were eager to give up the case four years before they formally abandoned proceedings in 2017 and that the CPS dissuaded them from doing so.” -- https://www.theguardian.com/media/2018/feb/11/sweden-tried-to-drop-assange-extradition-in-2013-cps-emails-show[The Guardian], 11 Feb 2018
 
