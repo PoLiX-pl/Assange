@@ -2,13 +2,14 @@
 
 Julian Assange faced allegations of sexual misconduct by two Swedish women. The case was closed during his stay in Sweden, then re-opened while he was in the U.K. (TODO Give sources). Going back to Sweden to explain his case was associated with the following risks.
 
-	1. There was a credible threat that the US wanted Julian Assange to be extradited
-	2. There was a credible threat that Sweden would extradite Julian Assange to the US * TODO back-up this claim*
-	3. Julian Assange might face important risks if transferred to the US * TODO back-up this claim*
+	. There was a credible threat that the US wanted Julian Assange to be extradited
+	. There was a credible threat that Sweden would extradite Julian Assange to the US * TODO back-up this claim*
+	. Julian Assange might face important risks if transferred to the US * TODO back-up this claim*
 
 However,
 
-	4. Julian Assange repeatedly offered Sweden alternative methods of questioning him, which “Sweden refused, unreasonably and disproportionately”, according to the United Nations https://en.wikipedia.org/wiki/Working_Group_on_Arbitrary_Detention[Working Group on Arbitrary Detention].
+[start=4]
+	. Julian Assange repeatedly offered Sweden alternative methods of questioning him, which “Sweden refused, unreasonably and disproportionately”, according to the United Nations https://en.wikipedia.org/wiki/Working_Group_on_Arbitrary_Detention[Working Group on Arbitrary Detention].
 
 See below for details and sources.
 
