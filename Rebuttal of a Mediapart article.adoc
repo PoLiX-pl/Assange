@@ -1,4 +1,4 @@
-Critiques de l'article: "Julian Assange, l'histoire d'une déchéance"
+= Critiques de l'article: "Julian Assange, l'histoire d'une déchéance"
 
 https://www.mediapart.fr/journal/international/110419/julian-assange-l-histoire-d-une-decheance
 
@@ -6,7 +6,7 @@ Voir une autre critique de cet article ici : https://blogs.mediapart.fr/edition/
 
 Source pour corriger les calomnies les plus fréquentes: (Caitlin Johnstone) : https://medium.com/@caityjohnstone/debunking-all-the-assange-smears-a549fd677cac
 
---
+== 1
 
 "Le rédacteur en chef de WikiLeaks est notamment accusé d’être trop indulgent, voire trop proche, de la Russie, pays sur lequel l’organisation n’a publié que peu de documents. Plusieurs interventions de Julian Assange surprennent, comme lorsqu’il assure, durant quelques mois en 2012, une émission de géopolitique sur la chaîne Russia Today (RT), The Julian Assange Show. Ou lorsque, à l’occasion d’une table ronde organisée pour les dix ans de RT, il livre un discours dans lequel il appelle « à oublier le concept de liberté individuelle, qui n’existe plus »."
 
@@ -31,14 +31,14 @@ Imaginons qu'un journaliste de Mediapart parle de Snowden et comparons:
 Si je lis cela, je vire le journaliste!
 Mais comme il est permis de mentir sur Assange, on n'a plus l'habitude d'être choqué.
 
---
+== 2
 
 "En novembre 2017, le journal The Atlantic révèle que le compte Twitter de WikiLeaks a entretenu des échanges réguliers durant la campagne présidentielle, via des messages privés, avec Donald Trump Jr., le fils du candidat républicain."
 
 Les messages en question sont disponibles ici: https://twitter.com/DonaldJTrumpJr/status/930228239494209536
 Il s'agit de quelques messages sporadiques, entre le 3 octobre et le 21 octobre 2016 (la campagne présidentielle a duré du 21 juillet, nomination de Mr. Trump au 8 novembre, lorsqu'il est élu). Dans ces messages, on voit WL essayer de cultiver une source pour obtenir les tax reports de Mr. Trump. Autrement dit, un travail journalistique normal, que les journalistes d'investigation de Mediapart font sans doute également, non?
 
---
+== 3
 
 "l’enquête sur le piratage des mails de la direction du Parti démocrate révèle que celui-ci a été réalisé par un groupe de hackers, Guccifer 2.0, lié aux services secrets russes, le GRU."
 Il n'a jamais été prouvé qu'un lien existe entre la Russie et la publication de WL, seules des déclarations d'officiels US ont été émises, ces officiels ayant menti à plusieurs reprises par ailleurs, e.g., James Clapper mentant sous serment à propos de la NSA. (ajouter source)
@@ -49,11 +49,11 @@ https://disobedientmedia.com/2017/07/new-research-shows-guccifer-2-0-files-were-
 
 https://theforensicator.wordpress.com/sorting-the-wikileaks-dnc-emails/
 
---
+== 4
 
 "Au fur et à mesure des années, Julian Assange fait peu à peu le vide autour de lui." Affirmation gratuite, c'est plutôt le gvt de Moreno qui a fait le vide autour de lui, en le mettant de facto en confinement solitaire pendant 7 mois (ni visites, ni internet, ni telephone).
 
---
+== 5
 
 "Au lendemain de l’élection présidentielle française, le compte Defend Julian Assange se demande également, dans un sondage proposé aux internautes, si Marine Le Pen a perdu « à cause du sexisme ». Peu après, il précise : « D’abord Hillary, maintenant Marine. C’est 2017 et l’emprise du patriarcat est aussi forte que jamais. »"
 
@@ -65,25 +65,25 @@ First Hillary, now Marine. It's 2017 and the patriarchy's grip is as strong as e
 
 Ce tweet est évidemment ironique et vise à se moquer de l'idée selon laquelle Mme Clinton aurait perdu à cause d'un sexisme des électeurs et non à cause d'idées de fond (on peut songer aux turpitudes révélées dans ses mails de campagne, à son programme, ou à son attitude belliciste).
 
---
+== 6
 
 
 "tombé en disgrâce" aux yeux de qui?
 
---
+== 7
 
 "traîné par deux policiers"
 
 https://www.youtube.com/watch?v=8oqJiNzJQ_E
 Sur la vidéo de son arrestation, on peut voir que Mr. Assange est intégralement soulevé par sept hommes, aux quels s'ajoutent un cordon de six autres hommes dont quatre en tenue de policier. Comment l'auteur en arrive à ce chiffre de "deux policiers"? Mystère.
 
---
+== 8
 
 "Mais le 18 novembre, la procureure Marianne Ny qui a pris en charge l’enquête ordonne sa détention et obtient la délivrance d’un mandat d’arrêt européen."
 
 L'enquête a été non pas "pris en charge" mais réouverte par Marianne Ny après que sa collègue l'ait fermée, en concluant aà un non-lieu (ajouter source).
 En plus du mandat d'arrêt européen, une alerte rouge Interpol a été lancée. Pourquoi omettre ces faits?
 
---
+== 9
 
 "plus préoccupé par sa propre défense que par les idéaux de WikiLeaks"
