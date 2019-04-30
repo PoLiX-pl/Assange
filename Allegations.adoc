@@ -10,8 +10,12 @@ However,
 
 [start=4]
 	. Julian Assange repeatedly offered Sweden alternative methods of questioning him, which “Sweden refused, unreasonably and disproportionately”, according to the United Nations Working Group on Arbitrary Detention.
-	. Sweden finally agreed to question him at the Embassy
-	. Numerous signs suggest that the chief prosecutor in Sweden did not consider the accusation of rape credible.
+	
+Here are two further points of clarification.
+
+[start=5]
+	. Sweden finally agreed to question him at the Embassy, but in reduced quality conditions.
+	. Although the investigation has been dropped and re-opened, two procureurs out of three, among which the highest-graded one, considered the case serious enough to deserve investigation.
 
 See below for details and sources.
 
@@ -57,4 +61,6 @@ Then on 1 Sep. 2010, “Swedish Director of Prosecution Marianne Ny says she is 
 She said it was "regrettable we have not been able to carry out the investigation", and added: "We are not making any pronouncement about guilt."” -- https://www.bbc.com/news/world-europe-39973864[BBC]
 
 “The newly-released emails show that the Swedish authorities were eager to give up the case four years before they formally abandoned proceedings in 2017 and that the CPS dissuaded them from doing so.” -- https://www.theguardian.com/media/2018/feb/11/sweden-tried-to-drop-assange-extradition-in-2013-cps-emails-show[The Guardian], 11 Feb 2018
+
+“In Sweden, charging comes much later in the process of a criminal investigation than it does in many other countries. ” -- https://www.bbc.com/news/world-europe-19426382
 
