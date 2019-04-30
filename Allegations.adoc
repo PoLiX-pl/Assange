@@ -9,7 +9,7 @@ Julian Assange faced allegations of sexual misconduct by two Swedish women. The 
 However,
 
 [start=4]
-	. Julian Assange repeatedly offered Sweden alternative methods of questioning him, which “Sweden refused, unreasonably and disproportionately”, according to the United Nations https://en.wikipedia.org/wiki/Working_Group_on_Arbitrary_Detention[Working Group on Arbitrary Detention].
+	. Julian Assange repeatedly offered Sweden alternative methods of questioning him, which “Sweden refused, unreasonably and disproportionately”, according to the United Nations Working Group on Arbitrary Detention.
 
 See below for details and sources.
 
@@ -29,7 +29,7 @@ Autres éléments relatifs à l'enquête en cours par les US depuis 2011:
 TODO “If Mr. Assange is convicted on the conspiracy to hack offense alone, he could face up to five years in prison. The government could later seek to charge him with additional offenses, but because of extradition practices, any such superseding indictment would most likely need to come soon, before Britain formally decides whether to transfer custody of him.”, says NYT (link above). We should comment on this.
 
 == 4
-“the context of his deprivation of liberty has arisen from the failure of Sweden which initiated a process against him to obtain his extradition, in the face of contradictory wishes expressed by “complainants”, having not established a prima facie case, and refusing, unreasonably and disproportionately, to achieve a process of questioning of him, if desired, through the normal processes of mutual assistance. Further, by his offer of co-operation in facilitating a number of alternative methods short of being extradited to Sweden – where it is further stated as a matter of record, that he will then be imprisoned in Sweden on arrival and as a foreigner with no ties to Sweden, in custody until trial.” -- https://www.ohchr.org/_layouts/15/WopiFrame.aspx?sourcedoc=/Documents/Issues/Detention/A.HRC.WGAD.2015.docx&action=default&DefaultItemOpen=1[Source]: Opinions adopted by the Working Group on Arbitrary Detention at its seventy-fourth session, 30 November – 4 December 2015
+“the context of his deprivation of liberty has arisen from the failure of Sweden which initiated a process against him to obtain his extradition, in the face of contradictory wishes expressed by “complainants”, having not established a prima facie case, and refusing, unreasonably and disproportionately, to achieve a process of questioning of him, if desired, through the normal processes of mutual assistance. Further, by his offer of co-operation in facilitating a number of alternative methods short of being extradited to Sweden – where it is further stated as a matter of record, that he will then be imprisoned in Sweden on arrival and as a foreigner with no ties to Sweden, in custody until trial.” -- https://www.ohchr.org/_layouts/15/WopiFrame.aspx?sourcedoc=/Documents/Issues/Detention/A.HRC.WGAD.2015.docx&action=default&DefaultItemOpen=1[Source]: Opinions adopted by the https://en.wikipedia.org/wiki/Working_Group_on_Arbitrary_Detention[Working Group on Arbitrary Detention] at its seventy-fourth session, 30 November – 4 December 2015
 
 “Sweden closed the preliminary investigation against Julian Assange in May 2017.
 The Swedish prosecutor had been compelled to travel to London to take Mr. Assange’s testimony six months prior.” -- Source: https://justice4assange.com/Assange-Testimony.html, contient les sources et le témoignage de JA par la Suède. TODO ¿huh
