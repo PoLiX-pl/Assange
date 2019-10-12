@@ -9,19 +9,17 @@ Julian Assange faced allegations of sexual misconduct by two Swedish women (http
 However,
 
 [start=4]
-	. Julian Assange repeatedly offered Sweden alternative methods of questioning him, which “Sweden refused, unreasonably and disproportionately”, according to the United Nations Working Group on Arbitrary Detention.
-	
-Here are two further points of clarification.
+	. Julian Assange repeatedly offered Sweden alternative methods of questioning him, which “Sweden refused, unreasonably and disproportionately”, according to the United Nations Working Group on Arbitrary Detention. Sweden finally agreed to question him at the Embassy, but in reduced quality conditions.
+
+Here are some further points of clarification.
 
 [start=5]
-	. Sweden finally agreed to question him at the Embassy, but in reduced quality conditions.
 	. Although the investigation has been dropped and re-opened, two procureurs out of three, among which the highest-graded one, considered the case serious enough to deserve investigation.
-
-TODO: consider http://theindicter.com/new-analysis-of-swedish-police-report-confirms-julian-assanges-version-in-swedens-case/ and Head of Swedish Bar Association condemns the handling of the Assange case in the UK and Sweden as deplorable: http://the-pen.co/reputation-of-swedish-judicial-system-damaged/
-
+	. The accusations are weak
+	
 See below for details and sources.
 
-== 1
+== The US wanted an extradition
 “a Grand Jury has been convened to criminally investigate WikiLeaks and Julian Assange and determine whether an indictment against them is warranted. (…) the Grand Jury is investigating possible violations of the Espionage Act (18 U.S.C. 793), a draconian 1917 law under which no non-government-employee has ever been convicted for disclosing classified information.  The most strident anti-WikiLeaks politicians -- such as Dianne Feinstein and Newt Gingrich -- have called for the prosecution of the whistle-blowing group under this law, and it appears that the Obama DOJ [Department of Justice] is at least strongly considering that possibility.” Glenn Greenwald, https://www.salon.com/2011/04/27/wikileaks_26/[_FBI serves Grand Jury subpoena likely relating to WikiLeaks_], Salon, 27 April 2011
 
 The Department of Justice https://www.nytimes.com/2019/04/11/world/europe/julian-assange-wikileaks-ecuador-embassy.html[unsealed] an https://www.justice.gov/opa/pr/wikileaks-founder-charged-computer-hacking-conspiracy[indictment] on the 11th of April, 2019 (the day Assange got arrested from Ecuador’s embassy in London). -- The New York Times and the U.S. Department of Justice, 11 April 2019 (see links in text)
@@ -33,23 +31,22 @@ Autres éléments relatifs à l'enquête en cours par les US depuis 2011:
 - Interrogatoires de Jacob Applebaum, Jason Katz, David House
 - Arrestations récentes de Chelsea Manning et Ola Bini
 
-== 2
+== Sweden could have extradited
 “lawyers argue that his extradition from Sweden would be even less likely than from the UK.” https://www.bbc.com/news/world-europe-37972528
 
-== 3
+== Risks if extradited
 TODO “If Mr. Assange is convicted on the conspiracy to hack offense alone, he could face up to five years in prison. The government could later seek to charge him with additional offenses, but because of extradition practices, any such superseding indictment would most likely need to come soon, before Britain formally decides whether to transfer custody of him.”, says NYT (link above). We should comment on this.
 
-== 4
+== Alternative methods of questioning him
 “the context of his deprivation of liberty has arisen from the failure of Sweden which initiated a process against him to obtain his extradition, in the face of contradictory wishes expressed by “complainants”, having not established a prima facie case, and refusing, unreasonably and disproportionately, to achieve a process of questioning of him, if desired, through the normal processes of mutual assistance. Further, by his offer of co-operation in facilitating a number of alternative methods short of being extradited to Sweden – where it is further stated as a matter of record, that he will then be imprisoned in Sweden on arrival and as a foreigner with no ties to Sweden, in custody until trial.” -- https://www.ohchr.org/_layouts/15/WopiFrame.aspx?sourcedoc=/Documents/Issues/Detention/A.HRC.WGAD.2015.docx&action=default&DefaultItemOpen=1[Source]: Opinions adopted by the https://en.wikipedia.org/wiki/Working_Group_on_Arbitrary_Detention[Working Group on Arbitrary Detention] at its seventy-fourth session, 30 November – 4 December 2015
 
-== 5
 “Assange questioned over Sweden 'rape' at Ecuadorean embassy
 
 Under the agreement worked out with Ecuador, the Swedes were not allowed to question Julian Assange directly. Instead questions were to be submitted in Spanish and put to the Wikileaks founder by an Ecuadorean prosecutor. No follow-up questions were allowed.
 
-This may explain why the Swedish prosecutor had been reluctant to question Julian Assange in London, insisting it would "lower the quality of the interview".”” -- https://www.bbc.com/news/world-europe-37972528[BBC]
+This may explain why the Swedish prosecutor had been reluctant to question Julian Assange in London, insisting it would "lower the quality of the interview".” -- https://www.bbc.com/news/world-europe-37972528[BBC]
 
-== 6
+== Disagreement among procurers
 On the 20 Aug. 2010, “The Swedish Prosecutor's Office issues an arrest warrant for Mr Assange based on allegations of rape and molestation.” -- BBC https://www.bbc.com/news/world-europe-11949341[timeline].
 
 But one day later, “Swedish authorities have withdrawn an arrest warrant for Wikileaks founder Julian Assange, stating that the accusation of rape against him was unfounded. (…) "I don't think there is reason to suspect that he has committed rape," the chief prosecutor, Eva Finne, said. She made no comment on the status of the molestation case, a less serious charge that would not lead to an arrest warrant.” -- https://www.theguardian.com/media/2010/aug/21/julian-assange-wikileaks-arrest-warrant-sweden[The Guardian], 21 Aug 2010
@@ -62,4 +59,38 @@ She said it was "regrettable we have not been able to carry out the investigatio
 “The newly-released emails show that the Swedish authorities were eager to give up the case four years before they formally abandoned proceedings in 2017 and that the CPS dissuaded them from doing so.” -- https://www.theguardian.com/media/2018/feb/11/sweden-tried-to-drop-assange-extradition-in-2013-cps-emails-show[The Guardian], 11 Feb 2018
 
 “In Sweden, charging comes much later in the process of a criminal investigation than it does in many other countries. ” -- https://www.bbc.com/news/world-europe-19426382
+
+== Accusations
+From the Guardian article, 17th Dec 2010.
+
+The allegations centre on a 10-day period after Assange flew into Stockholm on Wednesday 11 August.
+
+[Miss A.] returned early, on Friday 13 August, after which the pair went for a meal and then returned to her flat.
+
+he pulled off her clothes and snapped a necklace that she was wearing. According to her statement she "tried to put on some articles of clothing as it was going too quickly and uncomfortably but Assange ripped them off again". Miss A told police that she didn't want to go any further "but that it was too late to stop Assange as she had gone along with it so far", and so she allowed him to undress her.
+
+she told the police that at some stage Assange had "done something" with the condom that resulted in it becoming ripped, and ejaculated without withdrawing.
+
+[next day]
+Miss A held a party at her flat. One of her friends, "Monica", later told police that during the party Miss A had told her about the ripped condom and unprotected sex. Another friend told police that during the evening Miss A told her she had had "the worst sex ever" with Assange: "Not only had it been the world's worst screw, it had also been violent."
+
+On Sunday 15 August, Monica told police, Miss A told her that she thought Assange had torn the condom on purpose. According to Monica, Miss A said Assange was still staying in her flat but they were not having sex because he had "exceeded the limits of what she felt she could accept" and she did not feel safe.
+
+[17, Miss W told to the police:]
+She had awoken to find him having sex with her, she said, but when she asked whether he was wearing a condom he said no. "According to her statement, she said: 'You better not have HIV' and he answered: 'Of course not,' " but "she couldn't be bothered to tell him one more time because she had been going on about the condom all night. She had never had unprotected sex before."
+Police statements record her contacting Assange to ask him to get a test and his refusing on the grounds that he did not have the time.
+
+Miss A says she spent Wednesday [18] night on a mattress and then moved to a friend's flat so she did not have to be near him. She told police that Assange had continued to make sexual advances to her every day after they slept together and on Wednesday 18 August had approached her, naked from the waist down, and rubbed himself against her.
+
+Harold has independently told the Guardian Miss A made a series of calls to him asking him to persuade Assange to take an STD test to reassure Miss W, and that Assange refused.
+
+[When Miss A and W go to the police, police] told them that they couldn't simply tell Assange to take a test, that their statements must be passed to the prosecutor.
+
+== Overlooked
+https://wlcentral.org/node/2325
+http://wlcentral.org/sites/default/files/AssangeSexAllegations%20FUP[1].pdf (the said report)
+http://www.scribd.com/doc/71282275/Assange-High-Court-Judgement-2-November-2011 (the high court judgment, according to wlcentral), says: "The evidence in the file showed that the condom was examined by the Swedish National Laboratory of Forensic Science. The conclusion of the expert was that there was nothing to indicate that a tool had been used, but that the damage to the condom was created by the wear and tear of the condom" 
+http://nnn.se/nordic/assange/protocol.htm
+
+https://en.wikipedia.org/wiki/Elisabeth_Massi_Fritz defends Wilen? 11 avril 2019: “We are going to do everything we possibly can to get the swedish police investigation re-opened so that Assange can be extradited to Sweden and prosecuted for rape.” https://twitter.com/elisabethmfritz/status/1116292952593182720?lang=en
 
